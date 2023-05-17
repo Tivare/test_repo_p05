@@ -1,1 +1,1 @@
-example of readme file
+Tymofii Vashchaiev
