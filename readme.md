@@ -1,1 +1,1 @@
-# Mykyta Tishkin
+example of readme file
